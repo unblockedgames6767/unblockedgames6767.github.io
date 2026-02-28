@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Sitemap location — submit this to Google Search Console
+Sitemap: https://unblockedgames67.github.io/sitemap.xml
+
+# Crawl-delay (be nice to servers)
+Crawl-delay: 1
